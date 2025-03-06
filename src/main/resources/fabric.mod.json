@@ -8,8 +8,8 @@
 		"Iamaprogrammer"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/lamaprogramer/SpacialSwap",
+		"sources": "https://github.com/lamaprogramer/SpacialSwap"
 	},
 	"license": "MIT",
 	"icon": "assets/spacial-swap/icon.png",
